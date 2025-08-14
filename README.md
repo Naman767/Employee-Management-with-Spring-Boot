@@ -2,7 +2,7 @@ The Employee Management System (EMS) is a web-based application that allows orga
 It supports full CRUD operations (Create, Read, Update, Delete) and integrates with a MySQL database using Spring Data JPA.
 
 ⚙️ TECHNOLOGIES USED
-- Java 17+
+- Java 
 - Spring Boot
 - Spring Data JPA (Hibernate)
 - MySQL
